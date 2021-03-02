@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/dashboard/static/js/main.342d3e7c.chunk.js",
+    "main.js.map": "/dashboard/static/js/main.342d3e7c.chunk.js.map",
+    "runtime-main.js": "/dashboard/static/js/runtime-main.e2cc585b.js",
+    "runtime-main.js.map": "/dashboard/static/js/runtime-main.e2cc585b.js.map",
+    "static/js/2.a8465c5a.chunk.js": "/dashboard/static/js/2.a8465c5a.chunk.js",
+    "static/js/2.a8465c5a.chunk.js.map": "/dashboard/static/js/2.a8465c5a.chunk.js.map",
+    "static/js/3.c683434c.chunk.js": "/dashboard/static/js/3.c683434c.chunk.js",
+    "static/js/3.c683434c.chunk.js.map": "/dashboard/static/js/3.c683434c.chunk.js.map",
+    "index.html": "/dashboard/index.html",
+    "precache-manifest.0d29d33e10e1751d5db1e50e152edd63.js": "/dashboard/precache-manifest.0d29d33e10e1751d5db1e50e152edd63.js",
+    "service-worker.js": "/dashboard/service-worker.js",
+    "static/js/2.a8465c5a.chunk.js.LICENSE.txt": "/dashboard/static/js/2.a8465c5a.chunk.js.LICENSE.txt",
+    "static/media/HarvestRadio.mp3": "/dashboard/static/media/HarvestRadio.b58cf5eb.mp3",
+    "static/media/eth_dai.svg": "/dashboard/static/media/eth_dai.a1274a6c.svg",
+    "static/media/eth_usdc.svg": "/dashboard/static/media/eth_usdc.7cf894a6.svg",
+    "static/media/eth_usdt.svg": "/dashboard/static/media/eth_usdt.f059997f.svg",
+    "static/media/eth_wbtc.svg": "/dashboard/static/media/eth_wbtc.a6765326.svg",
+    "static/media/gif_tractor.gif": "/dashboard/static/media/gif_tractor.50ba3f46.gif",
+    "static/media/sushi_wbtc.svg": "/dashboard/static/media/sushi_wbtc.737eca79.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2cc585b.js",
+    "static/js/2.a8465c5a.chunk.js",
+    "static/js/main.342d3e7c.chunk.js"
+  ]
+}
